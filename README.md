@@ -24,6 +24,7 @@ See [firewalld documentation](https://firewalld.org/documentation/) for more det
 * [Anno 1800](https://www.ubisoft.com/de-de/game/anno/1800)
 * [Factorio](https://www.factorio.com/)
 * [Minecraft](https://www.minecraft.net)
+* [Need for Speed: Most Wanted (2005)](https://www.ea.com/games/need-for-speed/need-for-speed-most-wanted-2005)
 * [Sid Meier's Civilization IV](https://civilization.com/civilization-4/)
 * [Sid Meier's Civilization V](https://civilization.com/civilization-5/)
 * [Stellaris](https://www.paradoxinteractive.com/games/stellaris)
